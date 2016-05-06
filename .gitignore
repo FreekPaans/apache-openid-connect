@@ -1,0 +1,7 @@
+/vendor
+tags
+config.php
+/keys/oauth2.key
+/keys/pub.pem
+/.htpasswd
+/www-root/.htaccess

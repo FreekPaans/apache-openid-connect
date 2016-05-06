@@ -1,0 +1,7 @@
+AuthName "Your credentials"
+AuthType Basic
+AuthUserFile .htpasswd
+
+<Files "authorization.php">
+	Require valid-user
+</Files>
